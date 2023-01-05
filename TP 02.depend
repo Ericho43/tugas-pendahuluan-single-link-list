@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1664630847 source:c:\users\darma cahya\downloads\kuliah\tingkat 2\struktur data\tp 02\tp 02\hello.cpp
+	"hello.h"
+
+1664630456 c:\users\darma cahya\downloads\kuliah\tingkat 2\struktur data\tp 02\tp 02\hello.h
+	<iostream>
+	<cstdlib>
+
+1664630704 source:c:\users\darma cahya\downloads\kuliah\tingkat 2\struktur data\tp 02\tp 02\main.cpp
+	"hello.h"
+
+1664631527 source:c:\users\darma cahya\downloads\kuliah\tingkat 2\tp 02 - copy\hello.cpp
+	"hello.h"
+
+1664631526 c:\users\darma cahya\downloads\kuliah\tingkat 2\tp 02 - copy\hello.h
+	<iostream>
+	<cstdlib>
+
+1664631534 source:c:\users\darma cahya\downloads\kuliah\tingkat 2\tp 02 - copy\main.cpp
+	"hello.h"
+
